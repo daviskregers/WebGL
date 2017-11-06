@@ -12,4 +12,4 @@ Written for an a course work assignment in "Graphics in client-server environmen
 
 ----------
 
-Demo available at [http://webgl.deiveris.lv](http://webgl.deiveris.lv)
+Demo available at [https://webgl.deiveris.lv](https://webgl.deiveris.lv)
