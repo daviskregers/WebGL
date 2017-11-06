@@ -1,0 +1,18 @@
+.header {
+	margin-bottom: 25px;
+	padding: 15px 0;
+	border-bottom: 1px solid #CFCFCF;
+	color: #C0C0C0;
+	text-align: center;
+}
+
+#canvas {
+	width: 100%;
+}
+
+footer {
+	margin-top: 25px;
+	padding: 15px 0;
+	border-top: 1px solid #CFCFCF;
+	color: #C0C0C0;
+}
