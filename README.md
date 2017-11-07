@@ -1,6 +1,6 @@
 # WebGL
 
-Written for an a course work assignment in "Graphics in client-server environment"
+Written for an a course work assignment in "Graphics in internet"
 
 ----------
 
