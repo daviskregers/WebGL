@@ -1,6 +1,6 @@
 # WebGL
 
-Written for an a course work assignment in "Graphics in internet"
+Written for an a course work assignment in "Graphics in client-server environment"
 
 ----------
 
@@ -8,8 +8,18 @@ Written for an a course work assignment in "Graphics in internet"
 - ~HTML5 layout~
 - ~Style~
 - ~SVG elements~
-- ~WebGL~
+- ~WebGL~  
+
+- ~Multiple objects~
+- ~Light~
+- ~Textures~
+- ~Curve~
+- ~Fog~
+- ~Skybox texture~
+
+- Refactor
+- Presentation slides
 
 ----------
 
-Demo available at [https://demo.deiveris.lv/webgl/](https://demo.deiveris.lv/webgl/)
+Demo available at [http://webgl.deiveris.lv](http://webgl.deiveris.lv)
